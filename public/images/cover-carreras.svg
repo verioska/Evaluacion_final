@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Portada de carreras">
+  <rect width="640" height="400" fill="#1f2937"/>
+  <path d="M0 300 C180 235 310 360 640 220 L640 400 L0 400 Z" fill="#111827"/>
+  <path d="M300 400 L360 230 L430 400 Z" fill="#f8fafc" opacity=".85"/>
+  <rect x="130" y="190" width="330" height="88" rx="32" fill="#ef4444"/>
+  <circle cx="205" cy="280" r="38" fill="#020617"/>
+  <circle cx="395" cy="280" r="38" fill="#020617"/>
+  <rect x="240" y="150" width="130" height="55" rx="20" fill="#22d3ee"/>
+  <text x="40" y="70" fill="#ffffff" font-family="Arial" font-size="44" font-weight="700">CARRERAS</text>
+</svg>

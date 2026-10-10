@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Portada de lucha">
+  <rect width="640" height="400" fill="#3b0764"/>
+  <path d="M125 280 L220 125 L300 280 Z" fill="#f97316"/>
+  <path d="M340 280 L420 110 L525 280 Z" fill="#22d3ee"/>
+  <circle cx="220" cy="105" r="38" fill="#fed7aa"/>
+  <circle cx="420" cy="90" r="38" fill="#bae6fd"/>
+  <path d="M275 190 L365 160" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+  <text x="40" y="70" fill="#ffffff" font-family="Arial" font-size="44" font-weight="700">LUCHA</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Portada de videojuego nuevo">
+  <rect width="640" height="400" fill="#0f172a"/>
+  <rect x="90" y="85" width="460" height="230" rx="24" fill="#1e293b" stroke="#22d3ee" stroke-width="10"/>
+  <path d="M260 145 L390 200 L260 255 Z" fill="#b8f05a"/>
+  <text x="40" y="70" fill="#ffffff" font-family="Arial" font-size="44" font-weight="700">NUEVO</text>
+</svg>

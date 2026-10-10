@@ -1,0 +1,23 @@
+{
+  "name": "evaluacion-final-videojuegos",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://verioska.github.io/Evaluacion_final/",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^3.1.0",
+    "bootstrap": "^5.3.3",
+    "vite": "^4.5.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
