@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Portada de accion">
+  <rect width="640" height="400" fill="#7f1d1d"/>
+  <path d="M80 320 L220 80 L320 320 Z" fill="#facc15"/>
+  <path d="M250 320 L385 120 L560 320 Z" fill="#fb7185"/>
+  <circle cx="470" cy="110" r="48" fill="#22d3ee"/>
+  <path d="M90 160 H550" stroke="#ffffff" stroke-width="18" stroke-linecap="round" opacity=".85"/>
+  <text x="40" y="70" fill="#ffffff" font-family="Arial" font-size="44" font-weight="700">ACCION</text>
+</svg>

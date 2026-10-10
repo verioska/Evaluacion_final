@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Portada de juego creativo">
+  <rect width="640" height="400" fill="#e0f2fe"/>
+  <rect x="80" y="210" width="105" height="105" fill="#65a30d"/>
+  <rect x="185" y="210" width="105" height="105" fill="#84cc16"/>
+  <rect x="290" y="210" width="105" height="105" fill="#a3e635"/>
+  <rect x="395" y="210" width="105" height="105" fill="#65a30d"/>
+  <rect x="185" y="105" width="105" height="105" fill="#92400e"/>
+  <rect x="290" y="105" width="105" height="105" fill="#a16207"/>
+  <text x="40" y="70" fill="#0f172a" font-family="Arial" font-size="44" font-weight="700">CREATIVO</text>
+</svg>

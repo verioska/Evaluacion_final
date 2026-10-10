@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Portada de deportes">
+  <rect width="640" height="400" fill="#14532d"/>
+  <rect x="60" y="70" width="520" height="260" rx="14" fill="none" stroke="#ffffff" stroke-width="10"/>
+  <line x1="320" y1="70" x2="320" y2="330" stroke="#ffffff" stroke-width="8"/>
+  <circle cx="320" cy="200" r="52" fill="none" stroke="#ffffff" stroke-width="8"/>
+  <circle cx="155" cy="200" r="34" fill="#f8fafc"/>
+  <text x="40" y="60" fill="#b8f05a" font-family="Arial" font-size="42" font-weight="700">DEPORTES</text>
+</svg>
